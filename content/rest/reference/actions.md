@@ -4,8 +4,6 @@ product: '{% data reusables.gated-features.actions %}'
 redirect_from:
   - /v3/actions
 versions: '*'
-  ghes: '>=2.22'
-  ghae: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3
@@ -31,7 +29,7 @@ The Artifacts API allows you to download, delete, and retrieve information about
   {% if operation.subcategory == 'artifacts' %}{% include rest_operation %}{% endif %}
 {% endfor %}
 
-{% ifversion fpt or ghes > 2.22 or ghae %}
+
 ## Permissions
 
 {% data reusables.actions.ae-beta %}

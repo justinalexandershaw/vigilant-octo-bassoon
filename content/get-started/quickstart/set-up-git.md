@@ -22,7 +22,7 @@ topics:
 ---
 ## Using Git
 
-To use Git on the command line, you'll need to download, install, and configure Git on your computer. {% ifversion fpt or ghes or ghae %} You can also install {% data variables.product.prodname_cli %} to use {% data variables.product.product_name %} from the command line. For more information on {% data variables.product.prodname_cli %}, see the [{% data variables.product.prodname_cli %}](https://cli.github.com/manual/) documentation.{% endif %}
+To use Git on the command line, you'll need to download, install, and configure Git on your computer. 
 
 If you want to work with Git locally, but don't want to use the command line, you can instead download and install the [{% data variables.product.prodname_desktop %}]({% data variables.product.desktop_link %}) client.  For more information, see "[Installing and configuring {% data variables.product.prodname_desktop %}](/desktop/installing-and-configuring-github-desktop/)."
 

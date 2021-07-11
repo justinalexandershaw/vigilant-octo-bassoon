@@ -15,7 +15,7 @@ topics:
 ---
 ## Create a repository
 
-{% ifversion fpt %}
+
 
 You can store a variety of projects in {% data variables.product.product_name %} repositories, including open source projects. With [open source projects](http://opensource.org/about), you can share code to make better, more reliable software. You can use repositories to collaborate with others and track your work. For more information, see "[About repositories](/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories)."
 
@@ -25,7 +25,7 @@ You can store a variety of projects in {% data variables.product.product_name %}
 
 {% endif %}
 
-{% ifversion fpt %}
+
 
 {% note %}
 
@@ -46,7 +46,7 @@ You can store a variety of projects in {% data variables.product.product_name %}
 
 Congratulations! You've successfully created your first repository, and initialized it with a *README* file.
 
-{% ifversion fpt or ghes or ghae %}
+
 {% tip %}
 
 **Tip**: You can also create repositories using the {% data variables.product.prodname_cli %}. For more information, see "[`gh repo create`](https://cli.github.com/manual/gh_repo_create)" in the {% data variables.product.prodname_cli %} documentation.

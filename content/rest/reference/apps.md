@@ -42,7 +42,7 @@ To list all GitHub App installations for an organization, see "[List app install
   {% if operation.subcategory == 'installations' %}{% include rest_operation %}{% endif %}
 {% endfor %}
 
-{% ifversion fpt %}
+
 ## Marketplace
 
 For more information about {% data variables.product.prodname_marketplace %}, see "[GitHub Marketplace](/marketplace/)."
@@ -63,7 +63,7 @@ Be sure to replace stubbed endpoints with production endpoints before deploying 
 
 {% endif %}
 
-{% ifversion fpt or ghes > 2.22 or ghae %}
+
 ## Webhooks
 
 {% data reusables.webhooks.webhooks-rest-api-links %}

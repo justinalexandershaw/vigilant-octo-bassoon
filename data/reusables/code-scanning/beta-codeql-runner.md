@@ -1,4 +1,4 @@
-{% ifversion fpt %}
+
 
 {% note %}
 

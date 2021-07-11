@@ -1,5 +1,5 @@
 ---
-title: '{% data variables.product.product_name %}{% ifversion fpt %}.com{% endif %} Help Documentation'
+title: '{% data variables.product.product_name %} Help Documentation'
 featuredLinks:
   gettingStarted:
     - /github/getting-started-with-github/set-up-git

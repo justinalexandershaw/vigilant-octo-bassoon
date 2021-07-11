@@ -10,7 +10,7 @@ shortTitle: Other authentication methods
 ---
 
 
-{% ifversion fpt or ghes %}
+
 While the API provides multiple methods for authentication, we strongly
 recommend using [OAuth](/apps/building-integrations/setting-up-and-registering-oauth-apps/) for production applications. The other
 methods provided are intended to be used for scripts or testing (i.e., cases
@@ -20,7 +20,7 @@ Instead, they should use the [OAuth web flow](/apps/building-oauth-apps/authoriz
 
 {% endif %}
 
-{% ifversion ghae %}
+
 
 To authenticate we recommend using [OAuth](/apps/building-integrations/setting-up-and-registering-oauth-apps/) tokens, such a personal access token through the [OAuth web flow](/apps/building-oauth-apps/authorizing-oauth-apps/).
 
@@ -48,7 +48,7 @@ This approach is useful if your tools only support Basic Authentication but you 
 
 ### Via username and password
 
-{% ifversion fpt %}
+
 
 {% note %}
 
@@ -58,7 +58,7 @@ This approach is useful if your tools only support Basic Authentication but you 
 
 {% endif %}
 
-{% ifversion ghes %}
+
 To use Basic Authentication with the {% data variables.product.product_name %} API, simply send the username and
 password associated with the account.
 
@@ -73,7 +73,7 @@ If you have two-factor authentication enabled, make sure you understand how to [
 
 {% endif %}
 
-{% ifversion fpt %}
+
 ### Authenticating for SAML SSO
 
 {% note %}
@@ -105,16 +105,16 @@ $ curl -v -H "Authorization: token <em>TOKEN</em>" {% data variables.product.api
 The value `organizations` is a comma-separated list of organization IDs for organizations require authorization of your personal access token.
 {% endif %}
 
-{% ifversion fpt or ghes %}
+
 ## Working with two-factor authentication
 
-When you have two-factor authentication enabled, [Basic Authentication](#basic-authentication) for _most_ endpoints in the REST API requires that you use a personal access token{% ifversion ghes %} or OAuth token instead of your username and password{% endif %}.
+When you have two-factor authentication enabled, [Basic Authentication](#basic-authentication) for _most_ endpoints in the REST API requires that you use a personal access token.
 
-You can generate a new personal access token {% ifversion fpt %}using [{% data variables.product.product_name %} developer settings](https://github.com/settings/tokens/new){% endif %}{% ifversion ghes %} or with the "[Create a new authorization][/rest/reference/oauth-authorizations#create-a-new-authorization]" endpoint in the OAuth Authorizations API to generate a new OAuth token{% endif %}. For more information, see "[Creating a personal access token for the command line](/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)". Then you would use these tokens to [authenticate using OAuth token][oauth-auth] with the {% data variables.product.prodname_dotcom %} API.{% ifversion ghes %} The only time you need to authenticate with your username and password is when you create your OAuth token or use the OAuth Authorizations API.{% endif %}
+You can generate a new personal access token 
 
 {% endif %}
 
-{% ifversion ghes %}
+
 ### Using the OAuth Authorizations API with two-factor authentication
 
 When you make calls to the OAuth Authorizations API, Basic Authentication requires that you use a one-time password (OTP) and your username and password instead of tokens. When you attempt to authenticate with the OAuth Authorizations API, the server will respond with a `401 Unauthorized` and one of these headers to let you know that you need a two-factor authentication code:

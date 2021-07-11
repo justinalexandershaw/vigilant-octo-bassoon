@@ -1,4 +1,4 @@
-{% ifversion ghes < 2.22 %}
+
 1. Under your repository name, click **Clone or download**.
 ![Clone or download button](/assets/images/help/repository/clone-repo-clone-url-button.png)
 1. Click **Open in Desktop** to clone the repository and open it in {% data variables.product.prodname_desktop %}.

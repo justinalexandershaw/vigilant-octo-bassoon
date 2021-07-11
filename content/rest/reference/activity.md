@@ -145,7 +145,7 @@ Reason Name | Description
 `invitation` | You accepted an invitation to contribute to the repository.
 `manual` | You subscribed to the thread (via an issue or pull request).
 `mention` | You were specifically **@mentioned** in the content.
-`review_requested` | You, or a team you're a member of, were requested to review a pull request.{% ifversion fpt %}
+`review_requested` | You, or a team you're a member of, were requested to review a pull request.
 `security_alert` | {% data variables.product.prodname_dotcom %} discovered a [security vulnerability](/github/managing-security-vulnerabilities/about-alerts-for-vulnerable-dependencies) in your repository.{% endif %}
 `state_change` | You changed the thread state (for example, closing an issue or merging a pull request).
 `subscribed` | You're watching the repository.

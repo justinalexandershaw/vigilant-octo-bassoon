@@ -1,4 +1,4 @@
-{% ifversion not ghae %}
+
 
 {% note %}
 

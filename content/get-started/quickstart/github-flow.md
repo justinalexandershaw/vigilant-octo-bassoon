@@ -20,13 +20,13 @@ miniTocMaxHeadingLevel: 3
 
 ## Prerequisites
 
-To follow {% data variables.product.prodname_dotcom %} flow, you will need {% data variables.product.prodname_dotcom %} account and a repository. For information on how to create an account, see "[Signing up for {% data variables.product.prodname_dotcom %}](/github/getting-started-with-github/signing-up-for-github)." For information on how to create a repository, see "[Create a repo](/github/getting-started-with-github/create-a-repo)."{% ifversion fpt %} For information on how to find an existing repository to contribute to, see "[Finding ways to contribute to open source on {% data variables.product.prodname_dotcom %}](/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github)."{% endif %}
+To follow {% data variables.product.prodname_dotcom %} flow, you will need {% data variables.product.prodname_dotcom %} account and a repository. For information on how to create an account, see "[Signing up for {% data variables.product.prodname_dotcom %}](/github/getting-started-with-github/signing-up-for-github)." For information on how to create a repository, see "[Create a repo](/github/getting-started-with-github/create-a-repo)."
 
 ## Following {% data variables.product.prodname_dotcom %} flow
 
 {% tip %}
 
-{% ifversion fpt %}
+
 **Tip:** You can complete all steps of {% data variables.product.prodname_dotcom %} flow through {% data variables.product.prodname_dotcom %} web interface, command line and [{% data variables.product.prodname_cli %}](https://cli.github.com), or [{% data variables.product.prodname_desktop %}](/desktop).
 {% else %}
 **Tip:** You can complete all steps of {% data variables.product.prodname_dotcom %} flow through {% data variables.product.prodname_dotcom %} web interface or through the command line and [{% data variables.product.prodname_cli %}](https://cli.github.com).

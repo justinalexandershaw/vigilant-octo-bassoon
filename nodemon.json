@@ -3,5 +3,5 @@
   "ignore": ["node_modules", ".next"],
   "watch": ["./server/index.ts"],
   "ext": "ts",
-  "exec": "ts-node --project tsconfig.server.json ./server/index.ts"
+  "exec": "npm run build && ts-node --project tsconfig.server.json ./server/index.ts"
 }
