@@ -16,10 +16,7 @@ redirect_from:
   - /categories/using-git
   - /github/using-git
   - /github/getting-started-with-github/
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 layout: product-landing
 introLinks:
   quickstart: /github/getting-started-with-github/quickstart

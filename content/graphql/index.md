@@ -4,10 +4,7 @@ intro: 'You can use the {% data variables.product.prodname_dotcom %} GraphQL API
 shortTitle: GraphQL API
 redirect_from:
   - /v4
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 children:
   - /overview
   - /reference
