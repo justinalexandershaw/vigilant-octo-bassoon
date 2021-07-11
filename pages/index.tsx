@@ -108,7 +108,7 @@ function LandingPage(props: LandingPageProps) {
                   <a
                     className="btn-mktg flex-auto d-flex flex-items-center btn-outline-mktg btn-large-mktg ws-normal "
                     href={href}
-                    target={product.external ? "_blank" : undefined}
+                    target={product.external ? "_blank" : undefined} rel="noreferrer"
                   >
                     {product.name}
                     {product.external && (
