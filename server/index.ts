@@ -1,4 +1,5 @@
 import express, { Request, Response } from 'express';
+import middleware from '../middleware';
 import next from 'next';
 
 (async () => {
@@ -8,6 +9,7 @@ import next from 'next';
     const nextServer = next({ dev: isDev });
     const nextjsHandler = nextServer.getRequestHandler();
     const app = express();
+    middleware(app);
   
     await nextServer.prepare();
   
