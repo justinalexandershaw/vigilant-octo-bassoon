@@ -1,30 +1,30 @@
-import cx from 'classnames'
-import { useRouter } from 'next/router'
-import { useMainContext } from './context/MainContext'
-import { Link } from 'components/Link'
+import cx from "classnames";
+import { useRouter } from "next/router";
+import { useMainContext } from "./context/MainContext";
+import { Link } from "components/Link";
 
 export type BreadcrumbT = {
-  title: string
-  documentType?: string
-  href?: string
-}
+  title: string;
+  documentType?: string;
+  href?: string;
+};
 
 type Props = {
-  variant?: 'default' | 'large'
-}
-export const Breadcrumbs = ({ variant = 'default' }: Props) => {
-  const router = useRouter()
-  const pathWithLocale = `/${router.locale}${router.asPath.split('?')[0]}` // remove query string
-  const { breadcrumbs } = useMainContext()
+  variant?: "default" | "large";
+};
+export const Breadcrumbs = ({ variant = "default" }: Props) => {
+  const router = useRouter();
+  const pathWithLocale = `/${router.locale}${router.asPath.split("?")[0]}`; // remove query string
+  const { breadcrumbs } = useMainContext();
 
   return (
     <nav className="breadcrumbs f5" aria-label="Breadcrumb">
       {Object.values(breadcrumbs).map((breadcrumb) => {
         if (!breadcrumb) {
-          return null
+          return null;
         }
 
-        const title = `${breadcrumb.documentType}: ${breadcrumb.title}`
+        const title = `${breadcrumb.documentType}: ${breadcrumb.title}`;
         return !breadcrumb.href ? (
           <span key={title} title={title}>
             {breadcrumb.title}
@@ -35,15 +35,15 @@ export const Breadcrumbs = ({ variant = 'default' }: Props) => {
             href={breadcrumb.href}
             title={title}
             className={cx(
-              'd-inline-block',
-              variant === 'large' && 'text-uppercase text-mono',
-              pathWithLocale === breadcrumb.href && 'color-text-tertiary'
+              "d-inline-block",
+              variant === "large" && "text-uppercase text-mono",
+              pathWithLocale === breadcrumb.href && "color-text-tertiary"
             )}
           >
             {breadcrumb.title}
           </Link>
-        )
+        );
       })}
     </nav>
-  )
-}
+  );
+};
