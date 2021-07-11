@@ -3,8 +3,7 @@ title: Code scanning
 redirect_from:
   - /v3/code-scanning
 product: '{% data reusables.gated-features.code-scanning %}'
-versions:
-  fpt: '*'
+versions: '*'
   ghes: '>=2.22'
   ghae: '*'
 type: reference

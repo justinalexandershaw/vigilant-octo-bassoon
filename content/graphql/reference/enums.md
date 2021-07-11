@@ -3,10 +3,7 @@ title: Enums
 redirect_from:
   - /v4/enum
   - /v4/reference/enum
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

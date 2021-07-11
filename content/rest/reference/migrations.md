@@ -4,8 +4,7 @@ redirect_from:
   - /v3/migrations
   - /v3/migration
   - /v3/migration/migrations
-versions:
-  fpt: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

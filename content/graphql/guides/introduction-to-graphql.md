@@ -4,10 +4,7 @@ intro: Learn useful terminology and concepts for using the GitHub GraphQL API.
 redirect_from:
   - /v4/guides/intro-to-graphql
   - /graphql/guides/intro-to-graphql
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

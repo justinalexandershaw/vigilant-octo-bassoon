@@ -3,10 +3,7 @@ title: Scalars
 redirect_from:
   - /v4/scalar
   - /v4/reference/scalar
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

@@ -4,10 +4,7 @@ allowTitleToDifferFromFilename: true
 redirect_from:
   - /v3/enterprise-admin
   - /v3/enterprise
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

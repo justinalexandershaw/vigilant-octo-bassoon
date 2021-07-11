@@ -3,10 +3,7 @@ title: Codes of conduct
 redirect_from:
   - /v3/codes_of_conduct
   - /v3/codes-of-conduct
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

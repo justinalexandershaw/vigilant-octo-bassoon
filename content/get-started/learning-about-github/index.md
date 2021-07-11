@@ -4,10 +4,7 @@ intro: 'Learn how you can use {% data variables.product.company_short %} product
 redirect_from:
   - /articles/learning-about-github
   - /github/getting-started-with-github/learning-about-github/
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - Accounts
   - CLI

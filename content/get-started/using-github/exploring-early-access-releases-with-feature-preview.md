@@ -5,8 +5,7 @@ redirect_from:
   - /articles/exploring-early-access-releases-with-feature-preview
   - /github/getting-started-with-github/exploring-early-access-releases-with-feature-preview
   - /github/getting-started-with-github/using-github/exploring-early-access-releases-with-feature-preview
-versions:
-  fpt: '*'
+versions: '*'
 topics:
   - Early access
 shortTitle: Feature preview

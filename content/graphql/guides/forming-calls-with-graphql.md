@@ -4,10 +4,7 @@ intro: 'Learn how to authenticate to the GraphQL API, then learn how to create a
 redirect_from:
   - /v4/guides/forming-calls
   - /graphql/guides/forming-calls
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 shortTitle: Form calls with GraphQL

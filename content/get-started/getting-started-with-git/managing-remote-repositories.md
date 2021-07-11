@@ -18,10 +18,7 @@ redirect_from:
   - /github/using-git/managing-remote-repositories
   - /github/getting-started-with-github/managing-remote-repositories
   - /github/getting-started-with-github/getting-started-with-git/managing-remote-repositories
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 shortTitle: Manage remote repositories
 ---
 ## Adding a remote repository

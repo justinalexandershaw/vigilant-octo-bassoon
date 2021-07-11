@@ -3,10 +3,7 @@ title: Emojis
 redirect_from:
   - /v3/emojis
   - /v3/misc
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

@@ -5,10 +5,7 @@ redirect_from:
   - /guides/delivering-deployments/
   - /guides/automating-deployments-to-integrators/
   - /v3/guides/delivering-deployments
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

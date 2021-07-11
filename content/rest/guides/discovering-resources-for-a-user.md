@@ -4,10 +4,7 @@ intro: Learn how to find the repositories and organizations that your app can ac
 redirect_from:
   - /guides/discovering-resources-for-a-user/
   - /v3/guides/discovering-resources-for-a-user
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 shortTitle: Discover resources for a user

@@ -7,10 +7,7 @@ redirect_from:
   - /github/getting-started-with-github/git-and-github-learning-resources
   - /github/getting-started-with-github/quickstart/git-and-github-learning-resources
 intro: 'There are a lot of helpful Git and {% data variables.product.product_name %} resources on the web. This is a short list of our favorites!'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 authors:
   - GitHub
 shortTitle: Learning resources

@@ -6,10 +6,7 @@ redirect_from:
   - /articles/githubs-products
   - /github/getting-started-with-github/githubs-products
   - /github/getting-started-with-github/learning-about-github/githubs-products
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - Accounts
   - CLI

@@ -1,10 +1,7 @@
 ---
 title: Quickstart
 intro: 'Get started using {% data variables.product.product_name %} to manage Git repositories and collaborate with others.'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - Pull requests
   - Issues

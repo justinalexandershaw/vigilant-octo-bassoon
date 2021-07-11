@@ -4,10 +4,7 @@ intro: Explore how to use pagination to manage your responses with some examples
 redirect_from:
   - /guides/traversing-with-pagination/
   - /v3/guides/traversing-with-pagination
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 shortTitle: Traverse with pagination

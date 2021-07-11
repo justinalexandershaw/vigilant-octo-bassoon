@@ -6,8 +6,7 @@ redirect_from:
   - /articles/signing-up-for-a-new-github-account
   - /github/getting-started-with-github/signing-up-for-a-new-github-account
   - /github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account
-versions:
-  fpt: '*'
+versions: '*'
 topics:
   - Accounts
 ---

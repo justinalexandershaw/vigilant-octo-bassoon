@@ -3,10 +3,7 @@ title: Search
 intro: 'The {% data variables.product.product_name %} Search API lets you to search for the specific item efficiently.'
 redirect_from:
   - /v3/search
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

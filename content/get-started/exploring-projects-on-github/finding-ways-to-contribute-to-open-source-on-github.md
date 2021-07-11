@@ -10,8 +10,7 @@ redirect_from:
   - /github/getting-started-with-github/finding-open-source-projects-on-github
   - /github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github
   - /github/getting-started-with-github/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github
-versions:
-  fpt: '*'
+versions: '*'
 topics:
   - Open Source
 shortTitle: Contribute to open source

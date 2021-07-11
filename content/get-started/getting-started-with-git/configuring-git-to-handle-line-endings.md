@@ -9,10 +9,7 @@ redirect_from:
   - /github/using-git/configuring-git-to-handle-line-endings
   - /github/getting-started-with-github/configuring-git-to-handle-line-endings
   - /github/getting-started-with-github/getting-started-with-git/configuring-git-to-handle-line-endings
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 shortTitle: Handle line endings
 ---
 Every time you press <kbd>return</kbd> on your keyboard you insert an invisible character called a line ending. Different operating systems handle line endings differently.

@@ -2,10 +2,7 @@
 title: Activity
 redirect_from:
   - /v3/activity
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

@@ -8,10 +8,7 @@ redirect_from:
   - /articles/keyboard-shortcuts
   - /github/getting-started-with-github/keyboard-shortcuts
   - /github/getting-started-with-github/using-github/keyboard-shortcuts
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 ---
 ## About keyboard shortcuts
 

@@ -3,10 +3,7 @@ title: Using the Explorer
 intro: 'You can run queries on real {% data variables.product.prodname_dotcom %} data using the GraphQL Explorer, an integrated development environment in your browser that includes docs, syntax highlighting, and validation errors.'
 redirect_from:
   - /v4/guides/using-the-explorer
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

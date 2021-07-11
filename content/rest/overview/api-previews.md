@@ -3,10 +3,7 @@ title: API previews
 intro: You can use API previews to try out new features and provide feedback before these features become official.
 redirect_from:
   - /v3/previews
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

@@ -7,10 +7,7 @@ redirect_from:
   - /categories/exploring-projects-on-github/
   - /articles/exploring-projects-on-github
   - /github/getting-started-with-github/exploring-projects-on-github/
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - Projects
 children:

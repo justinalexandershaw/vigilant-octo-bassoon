@@ -10,10 +10,7 @@ redirect_from:
   - /articles/using-advanced-git-commands
   - /github/using-git/changing-author-info
   - /github/getting-started-with-github/using-git/
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 children:
   - /pushing-commits-to-a-remote-repository
   - /getting-changes-from-a-remote-repository

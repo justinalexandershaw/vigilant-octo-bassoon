@@ -2,10 +2,7 @@
 title: Gitignore
 redirect_from:
   - /v3/gitignore
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

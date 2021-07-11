@@ -3,10 +3,7 @@ title: Troubleshooting
 intro: Learn how to resolve the most common problems people encounter in the REST API.
 redirect_from:
   - /v3/troubleshooting
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

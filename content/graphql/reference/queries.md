@@ -4,10 +4,7 @@ miniTocMaxHeadingLevel: 2
 redirect_from:
   - /v4/query
   - /v4/reference/query
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

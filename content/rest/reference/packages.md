@@ -1,8 +1,7 @@
 ---
 title: Packages
 product: '{% data reusables.gated-features.packages %}'
-versions:
-  fpt: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

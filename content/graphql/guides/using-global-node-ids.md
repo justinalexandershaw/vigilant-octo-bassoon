@@ -3,10 +3,7 @@ title: Using global node IDs
 intro: You can get global node IDs of objects via the REST API and use them in GraphQL operations.
 redirect_from:
   - /v4/guides/using-global-node-ids
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

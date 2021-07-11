@@ -8,10 +8,7 @@ redirect_from:
   - /github/getting-started-with-github/access-permissions-on-github
   - /github/getting-started-with-github/learning-about-github/access-permissions-on-github
 intro: 'While you can grant read/write access to collaborators on a personal repository, members of an organization can have more granular access permissions for the organization''s repositories.'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - Permissions
   - Accounts

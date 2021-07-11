@@ -4,10 +4,7 @@ intro: Learn how to visualize the programming languages from your repository usi
 redirect_from:
   - /guides/rendering-data-as-graphs/
   - /v3/guides/rendering-data-as-graphs
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

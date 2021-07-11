@@ -1,8 +1,7 @@
 ---
 title: Using the GraphQL API for Discussions
 intro: Learn how to use the GitHub Discussions GraphQL API.
-versions:
-  fpt: '*'
+versions: '*'
 shortTitle: Use GraphQL for Discussions
 ---
 

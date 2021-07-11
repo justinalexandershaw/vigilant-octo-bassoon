@@ -3,10 +3,7 @@ title: Objects
 redirect_from:
   - /v4/object
   - /v4/reference/object
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

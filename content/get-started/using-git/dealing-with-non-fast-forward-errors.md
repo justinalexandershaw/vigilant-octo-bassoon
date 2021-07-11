@@ -6,10 +6,7 @@ redirect_from:
   - /github/using-git/dealing-with-non-fast-forward-errors
   - /github/getting-started-with-github/dealing-with-non-fast-forward-errors
   - /github/getting-started-with-github/using-git/dealing-with-non-fast-forward-errors
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 shortTitle: Non-fast-forward error
 ---
 If another person has pushed to the same branch as you, Git won't be able to push your changes:

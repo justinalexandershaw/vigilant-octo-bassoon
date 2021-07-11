@@ -2,10 +2,7 @@
 title: Licenses
 redirect_from:
   - /v3/licenses
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

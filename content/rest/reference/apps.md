@@ -2,10 +2,7 @@
 title: Apps
 redirect_from:
   - /v3/apps
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

@@ -3,10 +3,7 @@ title: Unions
 redirect_from:
   - /v4/union
   - /v4/reference/union
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

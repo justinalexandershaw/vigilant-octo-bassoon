@@ -7,10 +7,7 @@ redirect_from:
   - /github/using-git/getting-changes-from-a-remote-repository
   - /github/getting-started-with-github/getting-changes-from-a-remote-repository
   - /github/getting-started-with-github/using-git/getting-changes-from-a-remote-repository
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 shortTitle: Get changes from a remote
 ---
 ## Options for getting changes

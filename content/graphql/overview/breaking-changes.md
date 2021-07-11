@@ -3,10 +3,7 @@ title: Breaking changes
 intro: 'Learn about recent and upcoming breaking changes to the {% data variables.product.prodname_dotcom %} GraphQL API.'
 redirect_from:
   - /v4/breaking_changes
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

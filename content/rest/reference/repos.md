@@ -4,10 +4,7 @@ intro: 'The Repos API allows to create, manage and control the workflow of publi
 allowTitleToDifferFromFilename: true
 redirect_from:
   - /v3/repos
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

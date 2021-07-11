@@ -4,10 +4,7 @@ intro: 'Explore {% data variables.product.company_short %}''s products from diff
 redirect_from:
   - /articles/using-github
   - /github/getting-started-with-github/using-github/
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 children:
   - /exploring-early-access-releases-with-feature-preview
   - /supported-browsers

@@ -3,10 +3,7 @@ title: Mutations
 redirect_from:
   - /v4/mutation
   - /v4/reference/mutation
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

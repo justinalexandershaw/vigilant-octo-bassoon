@@ -5,10 +5,7 @@ redirect_from:
   - /articles/github-glossary
   - /github/getting-started-with-github/github-glossary
   - /github/getting-started-with-github/quickstart/github-glossary
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 ---
 {% for term in site.data.glossaries.external %}
   ### {% data glossaries.external[forloop.index0].term %}

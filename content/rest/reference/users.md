@@ -3,10 +3,7 @@ title: Users
 intro: 'The Users API allows to get public and private information about the authenticated user.'
 redirect_from:
   - /v3/users
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

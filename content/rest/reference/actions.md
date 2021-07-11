@@ -3,8 +3,7 @@ title: Actions
 product: '{% data reusables.gated-features.actions %}'
 redirect_from:
   - /v3/actions
-versions:
-  fpt: '*'
+versions: '*'
   ghes: '>=2.22'
   ghae: '*'
 topics:

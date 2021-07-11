@@ -7,10 +7,7 @@ redirect_from:
   - /github/getting-started-with-github/splitting-a-subfolder-out-into-a-new-repository
   - /github/getting-started-with-github/using-git/splitting-a-subfolder-out-into-a-new-repository
 intro: You can turn a folder within a Git repository into a brand new repository.
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 shortTitle: Splitting a subfolder
 ---
 If you create a new clone of the repository, you won't lose any of your Git history or changes when you split a folder into a separate repository.

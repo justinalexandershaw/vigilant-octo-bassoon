@@ -3,10 +3,7 @@ title: Pulls
 intro: 'The Pulls API allows you to list, view, edit, create, and even merge pull requests.'
 redirect_from:
   - /v3/pulls
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

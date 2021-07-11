@@ -8,10 +8,7 @@ redirect_from:
   - /github/collaborating-with-issues-and-pull-requests/github-flow
   - /github/getting-started-with-github/github-flow
   - /github/getting-started-with-github/quickstart/github-flow
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - Pull requests
   - Fundamentals

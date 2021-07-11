@@ -4,10 +4,7 @@ intro: 'Build an app that reliably interacts with the {% data variables.product.
 redirect_from:
   - /guides/best-practices-for-integrators/
   - /v3/guides/best-practices-for-integrators
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 shortTitle: Integrator best practices

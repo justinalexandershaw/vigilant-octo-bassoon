@@ -3,10 +3,7 @@ title: Teams
 intro: 'With the Teams API, you can create and manage teams in your {% data variables.product.product_name %} organization.'
 redirect_from:
   - /v3/teams
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

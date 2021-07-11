@@ -5,9 +5,7 @@ redirect_from:
   - /articles/setting-up-a-trial-of-github-enterprise-cloud
   - /github/getting-started-with-github/setting-up-a-trial-of-github-enterprise-cloud
   - /github/getting-started-with-github/signing-up-for-github/setting-up-a-trial-of-github-enterprise-cloud
-versions:
-  fpt: '*'
-  ghes: '*'
+versions: '*'
 topics:
   - Accounts
 shortTitle: Enterprise Cloud trial

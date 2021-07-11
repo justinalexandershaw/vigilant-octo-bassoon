@@ -3,10 +3,7 @@ title: Organizations
 allowTitleToDifferFromFilename: true
 redirect_from:
   - /v3/orgs
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

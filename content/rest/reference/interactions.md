@@ -2,8 +2,7 @@
 title: Interactions
 redirect_from:
   - /v3/interactions
-versions:
-  fpt: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

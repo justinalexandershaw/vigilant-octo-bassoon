@@ -2,10 +2,7 @@
 title: Gists
 redirect_from:
   - /v3/gists
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

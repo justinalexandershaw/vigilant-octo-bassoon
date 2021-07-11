@@ -2,10 +2,7 @@
 title: Markdown
 redirect_from:
   - /v3/markdown
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

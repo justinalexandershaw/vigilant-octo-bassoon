@@ -4,10 +4,7 @@ intro: 'With the Rate Limit API, you can check the current rate limit status of 
 redirect_from:
   - /v3/rate_limit
   - /v3/rate-limit
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

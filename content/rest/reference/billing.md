@@ -1,7 +1,6 @@
 ---
 title: Billing
-versions:
-  fpt: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

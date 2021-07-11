@@ -4,10 +4,7 @@ intro: 'You can use the official Octokit library and other third-party libraries
 redirect_from:
   - /libraries/
   - /v3/libraries
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

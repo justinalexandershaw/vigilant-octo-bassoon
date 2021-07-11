@@ -2,10 +2,7 @@
 title: Checks
 redirect_from:
   - /v3/checks
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

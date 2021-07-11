@@ -4,10 +4,7 @@ intro: 'Learn the foundations for using the REST API, starting with authenticati
 redirect_from:
   - /guides/getting-started/
   - /v3/guides/getting-started
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 shortTitle: Get started - REST API

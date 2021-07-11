@@ -3,10 +3,7 @@ title: Resources in the REST API
 intro: 'Learn how to navigate the resources provided by the {% data variables.product.prodname_dotcom %} API.'
 redirect_from:
   - /rest/initialize-the-repo/
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

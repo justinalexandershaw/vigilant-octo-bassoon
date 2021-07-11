@@ -3,10 +3,7 @@ title: Reactions
 intro: 'The Reactions API enables you to create, list and delete the reactions on comments.'
 redirect_from:
   - /v3/reactions
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

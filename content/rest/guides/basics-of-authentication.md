@@ -5,10 +5,7 @@ redirect_from:
   - /guides/basics-of-authentication
   - /v3/guides/basics-of-authentication
   - /rest/basics-of-authentication
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

@@ -4,10 +4,7 @@ intro: Your app can make requests to the following REST endpoints.
 redirect_from:
   - /v3/apps/available-endpoints
   - /rest/reference/endpoints-available-for-github-apps
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 shortTitle: GitHub App-enabled endpoints

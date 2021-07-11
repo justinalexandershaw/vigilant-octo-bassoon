@@ -9,10 +9,7 @@ redirect_from:
   - /articles/saving-repositories-with-stars
   - /github/getting-started-with-github/saving-repositories-with-stars
   - /github/getting-started-with-github/exploring-projects-on-github/saving-repositories-with-stars
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - Repositories
 shortTitle: Save repos with stars

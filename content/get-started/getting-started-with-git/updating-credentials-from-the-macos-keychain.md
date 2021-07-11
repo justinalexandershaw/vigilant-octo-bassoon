@@ -7,10 +7,7 @@ redirect_from:
   - /github/using-git/updating-credentials-from-the-macos-keychain
   - /github/getting-started-with-github/updating-credentials-from-the-macos-keychain
   - /github/getting-started-with-github/getting-started-with-git/updating-credentials-from-the-macos-keychain
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 shortTitle: macOS Keychain credentials
 ---
 {% data reusables.user_settings.password-authentication-deprecation %}

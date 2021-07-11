@@ -3,10 +3,7 @@ title: Git database
 allowTitleToDifferFromFilename: true
 redirect_from:
   - /v3/git
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

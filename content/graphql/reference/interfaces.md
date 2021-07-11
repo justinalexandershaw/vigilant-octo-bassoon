@@ -3,10 +3,7 @@ title: Interfaces
 redirect_from:
   - /v4/interface
   - /v4/reference/interface
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

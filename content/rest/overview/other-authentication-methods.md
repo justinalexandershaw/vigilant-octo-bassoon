@@ -3,10 +3,7 @@ title: Other authentication methods
 intro: You can use basic authentication for testing in a non-production environment.
 redirect_from:
   - /v3/auth
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 shortTitle: Other authentication methods

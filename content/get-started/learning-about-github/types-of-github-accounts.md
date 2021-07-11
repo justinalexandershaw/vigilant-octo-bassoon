@@ -9,10 +9,7 @@ redirect_from:
   - /articles/types-of-github-accounts
   - /github/getting-started-with-github/types-of-github-accounts
   - /github/getting-started-with-github/learning-about-github/types-of-github-accounts
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - Accounts
   - CLI

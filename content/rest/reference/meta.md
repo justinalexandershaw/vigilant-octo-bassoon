@@ -2,10 +2,7 @@
 title: Meta
 redirect_from:
   - /v3/meta
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

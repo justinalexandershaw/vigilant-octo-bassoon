@@ -8,10 +8,7 @@ redirect_from:
   - /github/getting-started-with-github/ignoring-files
   - /github/getting-started-with-github/getting-started-with-git/ignoring-files
 intro: 'You can configure Git to ignore files you don''t want to check in to {% data variables.product.product_name %}.'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 ---
 ## Configuring ignored files for a single repository
 

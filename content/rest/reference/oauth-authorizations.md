@@ -3,8 +3,7 @@ title: OAuth Authorizations
 redirect_from:
   - /v3/oauth_authorizations
   - /v3/oauth-authorizations
-versions:
-  ghes: '*'
+versions: '*'
 miniTocMaxHeadingLevel: 3
 ---
 

@@ -8,10 +8,7 @@ redirect_from:
   - /github/getting-started-with-github/about-git-rebase
   - /github/getting-started-with-github/using-git/about-git-rebase
 intro: 'The `git rebase` command allows you to easily change a series of commits, modifying the history of your repository. You can reorder, edit, or squash commits together.'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 ---
 Typically, you would use `git rebase` to:
 

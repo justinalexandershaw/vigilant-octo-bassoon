@@ -3,10 +3,7 @@ title: Managing enterprise accounts
 intro: You can manage your enterprise account and the organizations it owns with the GraphQL API.
 redirect_from:
   - /v4/guides/managing-enterprise-accounts
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 shortTitle: Manage enterprise accounts

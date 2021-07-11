@@ -9,10 +9,7 @@ redirect_from:
   - /github/using-git/associating-text-editors-with-git
   - /github/getting-started-with-github/associating-text-editors-with-git
   - /github/getting-started-with-github/getting-started-with-git/associating-text-editors-with-git
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 shortTitle: Associate text editors
 ---
 {% mac %}

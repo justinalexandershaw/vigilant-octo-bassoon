@@ -4,10 +4,7 @@ intro: 'Using the REST API, you can access and manage comments in your pull requ
 redirect_from:
   - /guides/working-with-comments/
   - /v3/guides/working-with-comments
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 ---

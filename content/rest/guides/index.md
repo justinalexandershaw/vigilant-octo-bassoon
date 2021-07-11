@@ -4,10 +4,7 @@ intro: 'Learn about getting started with the REST API, authentication, and how t
 redirect_from:
   - /guides/
   - /v3/guides
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 children:

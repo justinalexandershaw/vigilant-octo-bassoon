@@ -7,8 +7,7 @@ redirect_from:
   - /articles/verifying-your-email-address
   - /github/getting-started-with-github/verifying-your-email-address
   - /github/getting-started-with-github/signing-up-for-github/verifying-your-email-address
-versions:
-  fpt: '*'
+versions: '*'
 topics:
   - Accounts
 shortTitle: Verify your email address

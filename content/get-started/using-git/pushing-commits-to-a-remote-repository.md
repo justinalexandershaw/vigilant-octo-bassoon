@@ -7,10 +7,7 @@ redirect_from:
   - /github/using-git/pushing-commits-to-a-remote-repository
   - /github/getting-started-with-github/pushing-commits-to-a-remote-repository
   - /github/getting-started-with-github/using-git/pushing-commits-to-a-remote-repository
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 shortTitle: Push commits to a remote
 ---
 The `git push` command takes two arguments:

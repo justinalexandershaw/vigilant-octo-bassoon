@@ -3,10 +3,7 @@ title: Explorer
 redirect_from:
   - /v4/explorer
   - /v4/explorer-new
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 layout: graphql-explorer
 topics:
   - API

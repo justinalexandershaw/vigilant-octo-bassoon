@@ -2,10 +2,7 @@
 title: Issues
 redirect_from:
   - /v3/issues
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - API
 miniTocMaxHeadingLevel: 3

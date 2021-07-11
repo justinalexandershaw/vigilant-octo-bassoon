@@ -6,10 +6,7 @@ redirect_from:
   - /github/getting-started-with-github/create-a-repo
   - /github/getting-started-with-github/quickstart/create-a-repo
 intro: 'To put your project up on {% data variables.product.product_location %}, you''ll need to create a repository for it to live in.'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - Pull requests
   - Issues

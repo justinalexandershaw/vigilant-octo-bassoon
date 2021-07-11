@@ -5,10 +5,7 @@ redirect_from:
   - /articles/following-people
   - /github/getting-started-with-github/following-people
   - /github/getting-started-with-github/exploring-projects-on-github/following-people
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions: '*'
 topics:
   - Profile
 ---
